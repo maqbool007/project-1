@@ -1,0 +1,57 @@
+@media screen and (max-width:576px) {
+    .section-1-text{
+        width: 70%;
+        padding-bottom: 6%;
+    }
+    .main-container{
+        width: 100%;
+    }
+    .section-1-box{
+        width: 100%;
+    }
+    .section-1flex{
+       flex-direction: column;
+    }
+    .section-1{
+        height: 700px;
+    }
+    .section-2-card{
+        width: 100%;
+    }
+    .section-2-flex{
+        flex-direction: column;
+    }
+    .section-3-flex{
+        flex-direction: column;
+    }
+    .section-3-left{
+        width: 100%;
+    }
+    .section-3-right{
+        width: 100%;
+    }
+    .section-5-image{
+        width: 100%;
+    }
+    .yellow-div2{
+        width: 60%;
+        top: 20px;
+        left: 152px;
+    }
+    .section-6-flex{
+        flex-direction: column;
+    }
+    .section-6-card{
+        width: 100%;
+    }
+    .section-7-flex{
+        flex-direction: column;
+    }
+    .section-7-left{
+        width: 100%;
+    }
+    .section-7-right{
+        width: 100%;
+        text-align: center;
+    }
+}
